@@ -1,0 +1,34 @@
+.MovieDetailsPage {
+    display: flex;
+}
+
+.MovieDetailsPage__img {
+    margin-right: 15px;
+}
+
+.MovieDetailsPage__title {
+    font-size: 26px;
+    margin: 10px 0;
+}
+
+.MovieDetailsPage__descr h4 {
+    margin: 0;
+}
+
+.MovieDetailsPage__text {
+    margin: 10px 0;
+    font-size: 12px;
+}
+
+.goBack {
+    margin: 15px 0;
+}
+
+.list {
+    color: black;
+    text-decoration: none;
+}
+
+.list:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,9 @@
+.Cast {
+    width: 900px;
+    /* display: flex; */
+}
+
+.Cast li {
+    display: inline-block;
+    margin: 3px;
+}

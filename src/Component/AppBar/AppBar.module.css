@@ -1,0 +1,17 @@
+.AppBar {
+    display: flex;
+    list-style-type: none;
+}
+
+.AppBar__item {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.AppBar__item:hover {
+    text-decoration: underline;
+}
+
+.AppBar__item_active {
+    color: rgb(211, 104, 104);
+}
